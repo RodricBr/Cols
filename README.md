@@ -1,6 +1,6 @@
 <h1 align="center">Cols</h2>
 
-<h4 align="center"><strong>Simple & Practical XTERM-256 Terminal Color Pallet</strong></h4>
+<h4 align="center"><strong>Simple & Practical xterm-256color Terminal Color Pallet</strong></h4>
 
 <p align="center">
   <img border="0" src="./color-pallet.png" alt="Color Pallet">
@@ -11,7 +11,7 @@
 ## - Installation <br>
 > **Note**
 >
-> Works only for xterm-256
+> Works only for xterm-256color.
 ```console
 $ wget -qq "https://raw.githubusercontent.com/RodricBr/Cols/main/cols" -O cols
 $ chmod u+x cols

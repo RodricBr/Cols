@@ -3,7 +3,7 @@
 <h4 align="center"><strong>Practical XTERM-256 Terminal Color Pallet</strong></h4>
 
 <p align="center">
-  <img border="0" src="./pallet.png" alt="Color Pallet">
+  <img border="0" src="./color-pallet.png" alt="Color Pallet">
 </p>
 
 <hr>

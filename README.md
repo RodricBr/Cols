@@ -23,3 +23,12 @@ source <(curl -sk "https://raw.githubusercontent.com/RodricBr/Cols/main/cols")
 ```
 
 <br>
+
+## - Example <br>
+<p align="center">
+  <kbd>
+    <img border="0" src="./cols.png" alt="Cols Example">
+  </kbd>
+</p>
+
+<br>

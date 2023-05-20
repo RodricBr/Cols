@@ -3,7 +3,7 @@
 <h4 align="center"><strong>Simple & Practical xterm-256color Terminal Color Pallet</strong></h4>
 
 <p align="center">
-  <img border="0" src="./color-pallet.png" alt="Color Pallet">
+  <img border="0" src="./.img/color-pallet.png" alt="Color Pallet">
 </p>
 
 <hr>
@@ -27,7 +27,7 @@ source <(curl -sk "https://raw.githubusercontent.com/RodricBr/Cols/main/cols")
 ## - Example <br>
 <p align="center">
   <kbd>
-    <img border="0" src="./cols.png" alt="Cols Example">
+    <img border="0" src="./.img/cols.png" alt="Cols Example">
   </kbd>
 </p>
 

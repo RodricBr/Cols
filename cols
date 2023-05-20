@@ -2,6 +2,7 @@
 
 MAIN_(){
   local COLR=16
+  local IFS="  "
   for COLR in {0..255}; do
     echo -e "│${IFS}\\033[38;5;${COLR}m\\033[48;5;${COLR}mAAAA\\033[0m - \\\033[38;5;$COLR\0m\t"
     ((COLR++))

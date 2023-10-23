@@ -24,7 +24,7 @@ source <(curl -sk "https://raw.githubusercontent.com/RodricBr/Cols/main/cols")
 
 <br>
 
-## - Example <br>
+## - Example
 <p align="center">
   <kbd>
     <img border="0" src="./.img/cols.png" alt="Cols Example">

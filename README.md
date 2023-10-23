@@ -8,7 +8,7 @@
 
 <hr>
 
-## - Installation <br>
+## - Installation
 > **Note**
 >
 > Works only for xterm-256color.

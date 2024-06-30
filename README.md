@@ -9,7 +9,7 @@
 <hr>
 
 ## - Installation
-> **Note**
+> [!NOTE]
 >
 > Works only for xterm-256color.
 ```console
